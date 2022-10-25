@@ -3,10 +3,10 @@
 ![Release](https://img.shields.io/github/v/release/mygamedevtools/save-system?sort=semver)
 ![Last Commit](https://img.shields.io/github/last-commit/mygamedevtools/save-system)
 
-Scene Loader
+Save System (Work in Progress)
 ===
 
-_A package that standardizes the scene loading process among many different possibilities, including support for Coroutines, C# Tasks, UniTask and Addressables._
+_A reliable alternative to save and load gameplay data._
 
 Installation
 ---
