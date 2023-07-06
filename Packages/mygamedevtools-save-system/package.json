@@ -1,9 +1,8 @@
 {
   "name": "com.mygamedevtools.save-system",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "displayName": "Save System",
-  "description": "",
-  "unity": "2020.3",
+  "unity": "2021.3",
   "keywords": [],
   "author": {
     "name": "My GameDev Tools",
